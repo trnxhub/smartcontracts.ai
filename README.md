@@ -1,0 +1,2 @@
+# smartcontracts.ai
+SmartContracts.ai
